@@ -1,4 +1,4 @@
-# **Web-Based Inventory and Sales Management System	**
+# **Web-Based Inventory and Sales Management System**
 
 
 
