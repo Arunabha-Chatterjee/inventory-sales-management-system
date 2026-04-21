@@ -1,8 +1,8 @@
-# **Web-Based ERP System for Centralized Business Operations**
+# **Web-Based Inventory and Sales Management System	**
 
 
 
-The ERP Management System is a web-based application developed to streamline and manage business operations through a centralized platform. It provides an interactive dashboard for viewing business data over different time periods and monitoring recent activities. The system enables efficient management of business records by allowing users to view and manage product, customer, and invoice information along with their related details and summaries. It also supports maintaining and updating customer records and tracking transactions associated with products and invoices.	                                  
+This is a web-based application developed to streamline and manage business operations through a centralized platform. It provides an interactive dashboard for viewing business data over different time periods and monitoring recent activities. The system enables efficient management of business records by allowing users to view and manage product, customer, and invoice information along with their related details and summaries. It also supports maintaining and updating customer records and tracking transactions associated with products and invoices.	                                  
 
 
 
@@ -73,6 +73,6 @@ The ERP Management System is a web-based application developed to streamline and
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Author
-**Arunabha Chatterjee** - Developer of the Web-Based ERP System for Centralized Business Operations. <br/>
+**Arunabha Chatterjee** - Developer of the Web-Based Inventory and Sales Management System. <br/>
 [Linkdin](www.linkedin.com/in/arunabha-chatterjee123)  | [Github](https://github.com/Arunabha-Chatterjee)  |  [Resume](https://drive.google.com/file/d/1ZHHO3eh-7nj7JBJqh78C_FuYmCh4aOcn/view?usp=sharing)
 
