@@ -74,5 +74,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Author
 **Arunabha Chatterjee** - Developer of the Web-Based Inventory and Sales Management System. <br/>
-[Linkdin](www.linkedin.com/in/arunabha-chatterjee123)  | [Github](https://github.com/Arunabha-Chatterjee)  |  [Resume](https://drive.google.com/file/d/1ZHHO3eh-7nj7JBJqh78C_FuYmCh4aOcn/view?usp=sharing)
+[Linkdin](www.linkedin.com/in/arunabha-chatterjee123)  | [Github](https://github.com/Arunabha-Chatterjee)  |  [Resume](https://shorturl.at/j8f3n)
 
