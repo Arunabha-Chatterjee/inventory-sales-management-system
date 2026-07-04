@@ -44,7 +44,7 @@ This is a web-based application developed to streamline and manage business oper
 1. Make sure install all the required tools and technologies listed above.
 
 2. Clone the repository:
-`https://github.com/Arunabha-Chatterjee/ERP-Project.git`
+   `https://github.com/Arunabha-Chatterjee/inventory-sales-management-system.git`
 
 3. Set up the backend:
 	```
